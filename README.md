@@ -1,4 +1,4 @@
-# simple discord webhook daemon
+# Simple discord webhook daemon
 
 ```json
 {
@@ -17,4 +17,8 @@
   // "sOmE_veRylOnG_sTRiNgLIkEtHIs" wrote in localConfig.json file
   "webhookToken": "Specify in your localConfig.json file"
 }
+```
+## Usage
+```
+yarn start
 ```
