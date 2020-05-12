@@ -1,6 +1,6 @@
 # Simple discord webhook daemon
 
-```json
+```js
 {
   // bilibili user id
   "mid": 423895,
