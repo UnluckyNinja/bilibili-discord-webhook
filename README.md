@@ -1,4 +1,5 @@
 # Simple discord webhook daemon
+Deprecated, check alternative: https://github.com/UnluckyNinja/worker-bilibili-discord
 
 ```js
 {
